@@ -4,6 +4,8 @@
 ### Ejercicios
 1. Concatene en una linea una funcion para que imprima por pantalla los usuarios del sistema tomando los datos de **/etc/passwd**
 
+#modificacion clone
+
 
 2. Replique dicha funcionalidad en un script ejecutable
 
